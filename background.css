@@ -1,0 +1,19 @@
+body {
+    background-image :url("background.png");
+    background-size :cover;
+    color : yellow;
+    font-size: larger;
+    
+}
+
+span{
+    margin: 2%;
+    margin-top: 2%;
+}
+
+#count {
+    position: absolute;
+    left : 56%;
+    bottom: 10%;
+    font-size: xx-large;
+}
